@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 - 🦀 Primarily rust developer, working at https://github.com/bipa-app/.
-- 🐧 I've only used linux as my OS for more than 7 years (currently on NixOS, you can check out the config at https://github.com/nicolasuler/nixos).
+- 🐧 I've only used linux as my OS for more than 7 years (currently on NixOS, you can check out the config at https://github.com/nicolasauler/nixos).
