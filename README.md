@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Nic, welcome!
-I'm a Computer Engineering student at Escola Politécnica, in the University of São Paulo.
+I'm a Computer Engineer, graduated from [Polytechnic School of the University of São Paulo](https://en.wikipedia.org/wiki/Polytechnic_School_of_the_University_of_S%C3%A3o_Paulo).
 
 <!--
 **nicolasauler/nicolasauler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 I’m currently working on [Finnish](https://github.com/nicolasauler/finnish): a financial manager app for the future
-- 🌱 I’m currently learning **Rust**
-- 🐧 I've been using a flavour of Linux as my daily driver and only OS for more than 5 years (currently on Gentoo and NixOS)
-- ⚡ I'd like to get more into hardware and operating systems development
-
+- 🦀 Primarily rust developer, working at https://github.com/bipa-app/.
+- 🐧 I've only used linux as my OS for more than 7 years (currently on NixOS, you can check out the config at https://github.com/nicolasuler/nixos).
